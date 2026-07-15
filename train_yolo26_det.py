@@ -2,7 +2,7 @@
 """
 YOLO26 object detection benchmark for adenovirus in TEM images.
 
-This script trains YOLO26n/s/m/l/x object detection models using a selected
+This script trains YOLO26n/s/m/l/x object detection model variants using a selected
 augmentation profile, evaluating each model on validation and test splits,
 saving the best-performing weights, and exporting predictions and comparison
 metrics.
