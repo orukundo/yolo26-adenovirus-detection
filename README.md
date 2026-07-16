@@ -4,7 +4,7 @@ YOLO26 object detection benchmark for adenovirus in transmission electron micros
 
 ## Overview
 
-This repository trains YOLO26n/s/m/l/x object detection models using a selected augmentation profile, evaluates each model on validation and test splits, saves the best-performing weights, and exports predictions and comparison metrics.
+This trains YOLO26n/s/m/l/x object detection models using a selected augmentation profile, evaluates each model on validation and test splits, saves the best-performing weights, and exports predictions and comparison metrics.
 
 ## Requirements
 
